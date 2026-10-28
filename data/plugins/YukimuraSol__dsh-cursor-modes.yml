@@ -1,0 +1,6 @@
+url: https://github.com/YukimuraSol/dsh-cursor-modes
+name: YukimuraSol/dsh-cursor-modes
+category: workflow
+description:
+  en: Adds plan and multitask modes to a session and gates subagent dispatch through a judge-backed check.
+  zh: 为会话增加计划模式与多任务模式，并通过判官校验管控子代理派发。
